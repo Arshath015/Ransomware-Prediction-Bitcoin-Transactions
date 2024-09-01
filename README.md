@@ -10,7 +10,7 @@ This repository contains a machine learning project that predicts ransomware att
 - [Model Details](#model-details)
 - [App Interface](#app-interface)
 - [Contributing](#contributing)
-- [License](#license)
+- [Demo Video](#Demo-Video)
 
 ## Introduction
 Bitcoin is a cryptocurrency used for transactions in blockchain technology. Ransomware attacks are emerging as a major source of malware in Bitcoin transactions. While many ransomware prediction techniques have been proposed, there is a need for more suitable approaches using machine learning techniques.
