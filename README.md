@@ -84,3 +84,10 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 https://github.com/user-attachments/assets/86cc7462-b5bb-49dd-9f02-6cbf50a2ec9f
 
 
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
