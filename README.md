@@ -1,5 +1,7 @@
 # Ransomware Prediction in Bitcoin Transactions
 
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+
 This repository contains a machine learning project that predicts ransomware attacks in Bitcoin transactions. The project includes a trained model and a Streamlit-based web application for real-time prediction.
 
 ## Table of Contents
